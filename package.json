@@ -1,0 +1,19 @@
+{
+  "name": "express-super-helpers",
+  "version": "1.0.0",
+  "description": "set helper-variables req.isMobile/res.locals.isMobile, req.isSSL/res.locals.isSSL, req.isAjax/res.locals.isAjax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebush/express-super-helpers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebush/express-super-helpers/issues"
+  },
+  "homepage": "https://github.com/Sebush/express-super-helpers#readme"
+}
